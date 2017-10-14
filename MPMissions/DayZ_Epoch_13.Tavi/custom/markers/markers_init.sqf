@@ -1,0 +1,1 @@
+[] execVM "custom\markers\marker_1.sqf";
